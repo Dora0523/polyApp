@@ -1,5 +1,13 @@
 /* program to implement a simple application that constructs a polynomial expression
  * and evaluates it for certain predetermined values. 
+ EG:
+  <data file> 
+     3,0
+     2,1
+     4,2
+  <==> 
+   3+2x+4x^2
+  
  *************************************************************
  * Author          Dept.            Date            Notes
  *************************************************************
